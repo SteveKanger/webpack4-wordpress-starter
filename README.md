@@ -23,7 +23,7 @@ yarn dev
 Build production
 
 ```bash
-yarn dev
+yarn build
 ```
 
 Css and javascript files will be minimized during build.
